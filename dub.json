@@ -1,0 +1,12 @@
+{
+	"name": "dsshot",
+	"authors": [
+		"acorbi"
+	],
+	"dependencies": {
+		"gtk-d": "~>3.3.1"
+	},
+	"description": "Takes a screenshot using Gdk.",
+	"copyright": "Copyright © 2016, acorbi",
+	"license": "gpl3"
+}
